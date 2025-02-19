@@ -1,12 +1,12 @@
 export const environment = {
   firebaseConfig: {
-    apiKey: "AIzaSyAgqpnXNxZ8abif8ssQq_C2s998w7jZb68",
-    authDomain: "api-aula-d6451.firebaseapp.com",
-    projectId: "api-aula-d6451",
-    storageBucket: "api-aula-d6451.appspot.com",
-    messagingSenderId: "48648388488",
-    appId: "1:48648388488:web:dc73e0a1496a52cd4b843d",
-    measurementId: "G-CR3MDWMWJF"
+    apiKey: "AIzaSyAi0vOqStJvRZIluXnmPWiiUTPoBLxkGEA",
+    authDomain: "aula-a6871.firebaseapp.com",
+    projectId: "aula-a6871",
+    storageBucket: "aula-a6871.firebasestorage.app",
+    messagingSenderId: "1019369141869",
+    appId: "1:1019369141869:web:ee8918b29455993779b164",
+    measurementId: "G-E6EE9W3B3Q"
   },
   production: true
 };
